@@ -48,7 +48,8 @@ int main(){
     cout << "\nCercle de coordonnes : "<< ce.getX()<<" et "<<ce.getY()<<" et de rayon :"<<ce.getRayon()<<endl;
     cout <<"Perimetre du cercle: "<<ce.perimetre()<<endl;
     cout <<"Aire du cercle: "<<ce.aire()<<endl;*/
-    
+
+    cout << "Mon ajout test" << endl;
     system("PAUSE");
     return EXIT_SUCCESS;
 }
