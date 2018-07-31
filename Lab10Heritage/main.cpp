@@ -50,6 +50,7 @@ int main(){
     cout <<"Aire du cercle: "<<ce.aire()<<endl;*/
 
     cout << "Mon ajout test" << endl;
+    cout << "Ajout test 1 de 1er collaborateur" << endl;
     system("PAUSE");
     return EXIT_SUCCESS;
 }
