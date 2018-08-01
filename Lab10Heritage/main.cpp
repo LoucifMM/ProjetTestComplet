@@ -52,6 +52,7 @@ int main(){
     cout << "Mon ajout test" << endl;
     cout << "Ajout test 1 de 1er collaborateur" << endl;
     cout << "Ajout test2 de 1er collaborateur" << endl;
+    cout << "AAAAAAAAAAAAAAAAAA" << endl;
     system("PAUSE");
     return EXIT_SUCCESS;
 }
