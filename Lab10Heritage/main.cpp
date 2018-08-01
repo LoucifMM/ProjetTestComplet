@@ -53,8 +53,9 @@ int main(){
     cout << "Ajout test 1 de 1er collaborateur" << endl;
     cout << "Resolution du conflit par propio" << endl;
     cout`<< "Ajout test2 du 1er collaborateur" << endl;
-    cout << "Ajout test2 de 1er collaborateur" << endl;
+    out << "Ajout test2 de 1er collaborateur" << endl;
     cout << "AAAAAAAAAAAAAAAAAA" << endl;
+    cout << "Ajout test3 du collaborateur" << endl;
     system("PAUSE");
     return EXIT_SUCCESS;
 }
