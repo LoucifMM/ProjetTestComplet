@@ -56,6 +56,7 @@ int main(){
     out << "Ajout test2 de 1er collaborateur" << endl;
     cout << "AAAAAAAAAAAAAAAAAA" << endl;
     cout << "Ajout test3 du collaborateur" << endl;
+    cout << "Modif de test3" << endl;
     system("PAUSE");
     return EXIT_SUCCESS;
 }
