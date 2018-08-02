@@ -57,6 +57,7 @@ int main(){
     cout << "AAAAAAAAAAAAAAAAAA" << endl;
     cout << "Ajout test3 du collaborateur" << endl;
     cout << "Modif de test3" << endl;
+    cout << "Ajout encore une ligne par proprio" << endl;
     system("PAUSE");
     return EXIT_SUCCESS;
 }
